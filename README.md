@@ -1,4 +1,3 @@
-# module-12-assignment
-# Assignment 7 This repository contains my work for Assignment 7. 
-## Files Included - index.html - script.js 
-## What I Practiced In this assignment, I practiced working with JavaScript functions and user interaction.
+# module-12-assignment - THIS CONTAINS MY ASSIGNMENT 12
+## Files Included - thonny.py
+## What I Practiced in this assignment: Applied Python to business analytics, used Pandas and Matplotlib to clean and visualize data, and created recommendations based on the data.
